@@ -15,7 +15,6 @@ T/C 코호트(Metal/Plastic stent with Pancreatic cancer) 환자의
 install.packages("DatabaseConnector")
 install.packages("SqlRender")
 install.packages("CohortGenerator")
-install.packages("CirceR")
 ```
 
 ## 실행 방법
