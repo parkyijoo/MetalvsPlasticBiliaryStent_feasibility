@@ -1,7 +1,4 @@
 -- MeasurementCoverage.sql
--- T/C 코호트(851, 852) index date 전후 30일 이내 모든 measurement concept 집계
--- SqlRender 파라미터: @cdm_database_schema, @cohort_database_schema, @cohort_table,
---                     @target_id, @comparator_id, @min_cell_count
 
 SELECT
   m.measurement_concept_id,
